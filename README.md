@@ -8,3 +8,4 @@ Change base_url & site_url in application/config/config.php
 
 Change database credintial in application/config/database.php
 
+You can access page with <your_base_url>/customer
