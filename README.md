@@ -1,6 +1,6 @@
 "# crud_app" 
 
-crud functionality in codeigniter
+CRUD functionality in Codeigniter Framework
 
 Download this project and setup it in your local server. unzip server folder and uplaod crud_app.sql in your database.
 
